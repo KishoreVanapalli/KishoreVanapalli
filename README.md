@@ -40,16 +40,6 @@ Here’s my ever-growing toolkit that I use to build, design, and collaborate ef
 
 ---
 
-## 🐍 Watch My Contributions Come Alive
-
-<p align="center">
-  <img src="https://github.com/KishoreVanapalli/KishoreVanapalli/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-> 💡 **To make this animation work:** Set up a GitHub Actions workflow using Platane’s Snake Repository in your `KishoreVanapalli` repository.
-
----
-
 ## 🎯 Fun Facts About Me
 
 * ⚡ I’m passionate about technology that improves lives.
