@@ -32,14 +32,6 @@ Here’s my ever-growing toolkit that I use to build, design, and collaborate ef
 
 ---
 
-## 🏆 GitHub Achievements
-
-<a href="https://github.com/KishoreVanapalli">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=KishoreVanapalli&theme=flat&no-frame=true" alt="Kishore Vanapalli's GitHub Trophies" />
-</a>
-
----
-
 ## 🎯 Fun Facts About Me
 
 * ⚡ I’m passionate about technology that improves lives.
@@ -51,5 +43,5 @@ Here’s my ever-growing toolkit that I use to build, design, and collaborate ef
 ---
 
 <p align="center">
-  Connect with me on <a href="[Your LinkedIn URL Here]">LinkedIn</a>!
+  Connect with me on <a href="www.linkedin.com/in/kishorevanapalli5258">LinkedIn</a>!
 </p>
