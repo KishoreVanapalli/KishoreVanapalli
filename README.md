@@ -43,5 +43,5 @@ Here’s my ever-growing toolkit that I use to build, design, and collaborate ef
 ---
 
 <p align="center">
-  Connect with me on <a href="[www.linkedin.com/in/kishorevanapalli5258](https://www.linkedin.com/in/kishorevanapalli5258/)">LinkedIn</a>!
+  Connect with me on <a href="https://www.linkedin.com/in/kishorevanapalli5258/">LinkedIn</a>!
 </p>
