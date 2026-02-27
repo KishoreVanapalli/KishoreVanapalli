@@ -2,6 +2,8 @@
 
 # 🌟 Hey, I'm Kishore Vanapalli! 🚀
 
+<img width="851" height="315" alt="Image" src="https://github.com/user-attachments/assets/7d700f85-8727-40ab-8f84-ac6136eedcb3" />
+
 ---
 
 ## 👨‍💻 About Me
