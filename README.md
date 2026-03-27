@@ -2,13 +2,11 @@
 
 # 🌟 Hey, I'm Kishore Vanapalli! 🚀
 
-<img width="851" height="315" alt="Image" src="https://github.com/user-attachments/assets/7d700f85-8727-40ab-8f84-ac6136eedcb3" />
-
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I’m Kishore Vanapalli, a passionate and motivated **Electronics and Communication Engineering student (graduating in 2026)** with a strong interest in both **VLSI design** and **software development**. I enjoy working at the intersection of **hardware and software**, building systems that combine digital logic, automation, and intelligent control.
+Hello! I’m a passionate and motivated **Electronics and Communication Engineering student (graduating in 2026)** with a strong interest in both **VLSI design** and **software development**. I enjoy working at the intersection of **hardware and software**, building systems that combine digital logic, automation, and intelligent control.
 
 My technical focus includes **Digital Design, Verilog HDL, FSM-based systems, and UART protocols**, along with modern **web and software technologies**. I believe in continuous learning and currently strengthen my skills in **VLSI Physical Design concepts, Data Structures, React.js, Java, and Python**.
 
